@@ -11,7 +11,7 @@ title                    : "Rene Breton"
 title_separator          : "-"
 name                     : &name "Rene Breton"
 description              : &description "Reader in Astrophysics at The University of Manchester"
-url                      : https://www.renebreton.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bretonr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bretonr/bretonr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rene Breton"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "astrophysicist, keen cyclist, self-assumed geek"
   location         : "Manchester, UK"
   employer         : "The University of Manchester"
