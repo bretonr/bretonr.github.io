@@ -11,7 +11,7 @@ title                    : "Rene Breton"
 title_separator          : "-"
 name                     : &name "Rene Breton"
 description              : &description "Reader in Astrophysics at The University of Manchester"
-url                      : https://bretonr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.renebreton.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bretonr/bretonr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "BretonRene"
 facebook:
   username               :
   app_id                 :
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  name             : "Rene Breton"
+  avatar           : "profile.jpg"
+  bio              : "astrophysicist, keen cyclist, self-assumed geek"
+  location         : "Manchester, UK"
+  employer         : "The University of Manchester"
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "bretonr"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/rene-breton-82811124"
+  orcid            : "https://orcid.org/0000-0001-8522-4983"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "BretonRene"
   vine             :
   weibo            :
   xing             :
