@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Rene Breton"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "astrophysicist, keen cyclist, self-assumed geek"
   location         : "Manchester, UK"
-  employer         : "The University of Manchester"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=VbHGZwIAAAAJ"
   email            :
