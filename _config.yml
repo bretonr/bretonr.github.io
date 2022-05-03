@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "astrophysicist, keen cyclist, self-assumed geek"
   location         : "Manchester, UK"
-  employer         : "The University of Manchester"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=VbHGZwIAAAAJ"
   ads              : "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-8522-4983&sort=date+desc"
