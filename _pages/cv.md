@@ -9,51 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
+See short [2-page CV here]({{ base_path }}/files/Breton_CV.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Physics, McGill University, 2009, "Radio Pulsars in Binary Systems" (supervisor: Vicky Kaspi)
+* BSc in Physics, Universite Laval, 2003
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-now: Head of Research, Department of Physics and Astronomy, The University of Manchester
+* 2014-now: Professor of Astrophysics, The University of Manchester
+* 2013-2014: Lecturer in Astrophysics, University of Southampton
+* 2012-2013: Postdoc, University of Southampton
+* 2008-2011: Postdoc, University of Toronto
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Funding ID (selected)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+See [ORCID](https://orcid.org/0000-0001-8522-4983) funding ID
+
+* 2017-2023: ERC Starter Grant: "Spiders"
+* 2018-2020: STFC GCRF Foundation grant: "Parthenium in Pakistan"
+* 2018-2020: STFC GCRF Foundation grant: "DARA Global Network"
+* 2014-2016: EC Marie Curie International Incoming Fellowship
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+See [publication list on ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-8522-4983&sort=date+desc)
+
+<!---  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  {% endfor %}</ul> --->
+
+<!---Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+  {% endfor %}</ul>--->
+
+<!---Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul>--->
+
+Service and leadership (selected)
 ======
-* Currently signed in to 43 different slack teams
+* 2019: DARA Global Network Workshop, SOC Chair
+* 2017: 50 Years of Pulsars Conference, LOC member
+* Reviewer: Nature, Nature Astronomy, MNRAS, ApJ, A&A, STFC, etc
+
+Major collaborations
+======
+* 2018-now: GOTO
+* 2017-now: BlackGEM
+* 2016-now: MeerKAT TRAPUM
+* 2013-now: LOFAR PWG
+

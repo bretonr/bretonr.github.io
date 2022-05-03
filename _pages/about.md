@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Reader at the [Jodrell Bank Centre for Astrophysics](http://www.jb.man.ac.uk) at [The University of Manchester](http://www.manchester.ac.uk) since November 2014.
+I'm a Professor of Astrophysics at the [Jodrell Bank Centre for Astrophysics](http://www.jb.man.ac.uk) at [The University of Manchester](http://www.manchester.ac.uk). I have been working there since November 2014.
 
 I fell in love with astronomy when I was a little boy and spent countless nights stargazing and dreaming about becoming a professional astronomer while I was growing up.
 
@@ -41,3 +41,7 @@ I enjoy practicing (and watching) sports in my spare time; it keeps my mind and 
 
 Other than that, I love music (the listening bit, as I have no talent whatsoever to play), photography, geeking around with techno stuff, tea, coffee, wine, and many more thing...
 
+
+Short bio (for talks, etc)
+------
+Rene Breton received his PhD in Physics from McGill University, Canada, in 2009. He is a Professor of Astrophysics at the Jodrell Bank Centre for Astrophysics and the Head of Research at the Department of Physics and Astronomy, University of Manchester. He currently holds a European Research Council Starter Grant for the study of 'spider binary pulsars'. His main research interests revolve around the study of pulsars, which he uses to attempt to understand matter under extreme density, gravity and magnetic fields. Some of his past work enabled us to test 'geodetic spin precession' - a phenomenon predicted to exist in General Relativity - for the first time in the strong gravity environment. Rene also has a keen interest for science communication. He recently started applying his data analysis skills for research in the area of agriculture and trying to map the spread of invasive plants using satellite imaging.
