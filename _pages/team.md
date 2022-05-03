@@ -1,13 +1,11 @@
 ---
-permalink: /team/
+layout: archive
 title: "Team"
-excerpt: "Team"
+permalink: /team/
 author_profile: true
-redirect_from: 
-  - /team/
-  - /team.html
 ---
 
+{% include base_path %}
 
 I am very fortunate to work with a great bunch of smart minds. See my team below.
 

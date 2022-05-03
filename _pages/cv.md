@@ -1,22 +1,9 @@
 ---
-permalink: /cv/
-title: "CV"
-excerpt: "CV"
-author_profile: true
-redirect_from: 
-  - /cv/
-  - /cv.html
----
-<!---
----
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
---->
 
 {% include base_path %}
 

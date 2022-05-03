@@ -1,4 +1,11 @@
 ---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+<!---
+---
 permalink: /research/
 title: "Research"
 excerpt: "Research"
@@ -7,7 +14,9 @@ redirect_from:
   - /research/
   - /research.html
 ---
+--->
 
+{% include base_path %}
 
 My research covers on a wide variety of topics related to neutron stars, pulsars, transients and binary systems. I am mostly interested in using them as tools for fundamental physics, such as probing matter under extreme densities and testing of gravity theories.
 
