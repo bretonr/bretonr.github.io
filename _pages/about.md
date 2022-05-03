@@ -35,7 +35,6 @@ I'm a multi-wavelength astrophysicist but I like to think of myself as an observ
 My research themes revolve around neutron stars and pulsars, transients, binary systems, tests of gravity and neutron star equation of state. I also do some digital instrumentation in the radio now.
 
 
-
 What do I like to do
 ------
 I enjoy practicing (and watching) sports in my spare time; it keeps my mind and body sane. I like a variety of them such as running, hiking, volleyball, ice hockey, football. I really got into road cycling during my years in Toronto around 2009.

@@ -47,3 +47,5 @@ Local/*
 *.sublime-workspace
 
 Upload.sh
+
+Gemfile.lock
