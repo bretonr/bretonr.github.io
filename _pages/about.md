@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Rene Breton - About me"
+excerpt: "Personal webpage of Rene Breton"
 author_profile: true
 redirect_from: 
   - /about/

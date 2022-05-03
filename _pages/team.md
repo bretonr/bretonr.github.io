@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /team/
 title: "Team"
 excerpt: "Team"
 author_profile: true
