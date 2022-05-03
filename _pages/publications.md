@@ -10,7 +10,7 @@ author_profile: true
 <!---{% if author.ads %}
   The best place to find my publications is on <u><a href="{{author.ads}}">my ADS profile</a>.</u>
 {% endif %}--->
-The best place to find my publications is on <u><a href="{author.ads}">my ADS profile</a>.</u>
+The best place to find my publications is on <u><a href="{author.ads}">my ADS profile</a>.</u> 1 {{author.name}} 2 {% {author.name} %}
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
