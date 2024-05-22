@@ -41,7 +41,7 @@ I'm particularly interested in the detection of new FRBs (as only a few have bee
 
 Double Pulsar
 ------
-[Visit my special double pulsar webpage](http://doublepulsar.renebreton.org)
+[Visit my webpage dedicated to the double pulsar](http://doublepulsar.renebreton.org)
 
 PSR J0737-3039A/B, aka the 'double pulsar', is the only known double neutron star system in which both neutron stars have been observed as radio pulsars. The 23-ms 'A' pulsar was discovered in 2003 by Burgay et al, while the 2.8-s 'B' pulsar was found a few months later by Lyne et al. The radio timing of the double pulsar has allowed for the most stringent test of general relativity in the strong field regime so far.
 

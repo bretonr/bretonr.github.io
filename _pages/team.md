@@ -14,28 +14,20 @@ I am very fortunate to work with a great bunch of smart minds. See my team below
 * Rene Breton (i.e. myself)
 
 ### Postdoctoral Research Associates
-
-#### ERC team
 * Soheb Mandhai
-* John Paice
-
-#### GCRF Parthenium team
 
 ### Postgraduate Students
 #### PhD
 Oliver Dodge (2020-) - Fundamental Physics with Spider Pulsars (placeholder)
 Adipol Phosrisom (2020-) - Fundamental Physics Using Spider Pulsars (placeholder)
 Tinn Thongmeearkom (MPhil 2021, 2021-) - Search and Characterisation of Binary Pulsar
-
-#### MScR
-Pengyue Sun (2021-) - Investigation of Biases in Spider Binary Optical Light Curve Modelling
-Fujiang Yu (2021-) - The effect of irradiation on spider pulsar binary companion's atmospheres
-
-#### MPhil
-Gareth Hillston (2021-) - Remote sensing and spread modelling of invasive plants
-
+Pengyue Sun (MScR 2023, 2023-) - Transitional Millisecond Pulsars
+Sergio Belmonte Diaz (2022-) - Detecting Pulsars and Fast Transients Using Machine Learning
 
 ### Previous team members
+* Fujiang Yu (MScR 2023) - The effect of irradiation on spider pulsar binary companion's atmospheres
+* Gareth Hillston (MPhil 2023) - Remote sensing and spread modelling of invasive plants
+* John Paice (ERC postdoc 2021-2023)
 * Colin Clark (ERC postdoc 2017-2021)
 * Mark Kennedy (ERC postdoc 2017-2021)
 * Daniel Mata Sanchez (ERC postdoc 2018-2021)

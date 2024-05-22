@@ -16,8 +16,9 @@ Education
 
 Work experience
 ======
-* 2018-now: Head of Research, Department of Physics and Astronomy, The University of Manchester
+* 2024-now: Deputy Head, Department of Physics and Astronomy, The University of Manchester
 * 2014-now: Professor of Astrophysics, The University of Manchester
+* 2018-2022: Head of Research, Department of Physics and Astronomy, The University of Manchester
 * 2013-2014: Lecturer in Astrophysics, University of Southampton
 * 2012-2013: Postdoc, University of Southampton
 * 2008-2011: Postdoc, University of Toronto
@@ -62,5 +63,5 @@ Major collaborations
 * 2018-now: GOTO
 * 2017-now: BlackGEM
 * 2016-now: MeerKAT TRAPUM
-* 2013-now: LOFAR PWG
+* 2013-2020: LOFAR PWG
 
